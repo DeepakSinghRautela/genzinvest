@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
+import heroImg from "src/assets/hero-img1.webp";
 
 export default function Hero() {
   return (
@@ -134,7 +135,7 @@ export default function Hero() {
           className="relative"
         >
           <img
-            src="src/assets/hero-img1.webp"
+            src={heroImg}
             alt="Wealth Management"
             className="
             w-full
