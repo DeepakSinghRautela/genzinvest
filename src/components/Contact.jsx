@@ -8,7 +8,7 @@ export default function Contact() {
       <div className="max-w-7xl mx-auto">
         {/* Header */}
         <div className="text-center mb-16">
-          <span className="text-[#D4AF37] font-semibold tracking-[4px] uppercase">
+          <span className="text-[#D4AF37] text-4xl font-semibold tracking-[4px] uppercase">
             Contact Us
           </span>
 
