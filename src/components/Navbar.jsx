@@ -27,13 +27,15 @@ export default function Navbar() {
             Home
           </NavLink>
 
+           <NavLink to="/about" className={navLinkClass}>
+            About
+          </NavLink>
+
           <NavLink to="/services" className={navLinkClass}>
             Services
           </NavLink>
 
-          <NavLink to="/about" className={navLinkClass}>
-            About
-          </NavLink>
+         
 
           <NavLink to="/projects" className={navLinkClass}>
             Projects

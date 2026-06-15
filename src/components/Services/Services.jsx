@@ -54,7 +54,7 @@ export default function Services() {
   return (
     <section className="py-20 bg-gray-100">
       <div className="max-w-7xl mx-auto px-5">
-        <h2 className="text-center text-5xl  mb-14 text-[#D4AF37]">
+        <h2 className="text-center text-4xl  mb-14 text-[#D4AF37]">
           OUR SERVICES
         </h2>
 

@@ -45,18 +45,15 @@ export default function Hero() {
             Trusted Wealth Management Partner
           </span>
 
-          <h1 className="text-5xl lg:text-7xl font-bold leading-tight text-[#011A41]">
-            Build Wealth.
+          <h1 className="text-5xl lg:text-4xl font-bold leading-tight text-[#011A41]">
+            Building Financial Confidence 
             <br />
-            Secure Your
-            <span className="text-[#D4AF37]"> Future.</span>
+            For The Next Generation
+            {/* <span className="text-[#D4AF37]"> Future.</span> */}
           </h1>
 
           <p className="mt-8 text-lg text-gray-600 max-w-xl leading-8">
-            We help individuals and families grow, protect, and
-            manage their wealth through personalized investment
-            strategies, retirement planning, and financial
-            advisory services.
+            Modern financial solutions designed around people, guided by trust, and focused on long-term value.
           </p>
 
           {/* Buttons */}
@@ -73,7 +70,8 @@ export default function Hero() {
               transition
               "
             >
-              Get Started
+               <Link to="/contact">Get Started</Link>
+              
             </button>
 
             <button

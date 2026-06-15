@@ -67,7 +67,7 @@ export default function Project() {
       <div className="max-w-7xl mx-auto px-5">
         {/* Heading */}
         <div className="text-center mb-16">
-          <span className="text-[#D4AF37] font-semibold tracking-[4px] uppercase">
+          <span className="text-[#D4AF37] text-4xl font-semibold tracking-[4px] uppercase">
             Featured Projects
           </span>
 
